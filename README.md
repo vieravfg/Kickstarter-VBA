@@ -14,7 +14,7 @@ I am submitting two excel files, two VBA scripts, and three screen shots of the 
 ## VBA Scripts
 
 * [My VBA Script](VBA_scripts/HWSolution.bas) - This is my code for solving the homework and bonus part.
-* [My VBA Script](VBA_scripts/Resetscript.bas) - This code was for reseting the excel sheets and erasing the solutions in case it was needed.  
+* [Reset Script](VBA_scripts/Resetscript.bas) - This code was for reseting the excel sheets and erasing the solutions in case it was needed.  
 ## Screen Shots 
 
 *  3 screen shots for each year of my results on the Multi Year Stock Data.
