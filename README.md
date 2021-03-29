@@ -14,8 +14,8 @@ I am submitting two excel files, two VBA scripts, and three screen shots of the 
 
 *  3 screen shots for each year of my results on the Multi Year Stock Data.
 
-![moderate_solution](screenshots/screenshot_2016)
-![moderate_solution](screenshots/screenshot_2015)
-![moderate_solution](screenshots/screenshot_2014)
+![moderate_solution](screenshots/screenshot_2016.png)
+![moderate_solution](screenshots/screenshot_2015.png)
+![moderate_solution](screenshots/screenshot_2014.png)
 
 - - -
