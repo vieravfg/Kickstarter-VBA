@@ -3,7 +3,7 @@
 
 I am submitting two excel files, two VBA scripts, and three screen shots of the solutions from the multi year stock data excel file. 
 
-*The code took me aproximately 3-4 minutes to run on my  Multiple_year_stock_data.xlsm file. And less than one minute to run on my alphabetical_test.xlsm file.
+* The code took me aproximately 3-4 minutes to run on my  Multiple_year_stock_data.xlsm file. And less than one minute to run on my alphabetical_test.xlsm file.
 
 ## Files
 
