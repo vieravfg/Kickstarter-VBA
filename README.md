@@ -5,16 +5,17 @@ I am submitting two excel files, two VBA scripts, and three screen shots of the 
 
 * The code took me aproximately 3-4 minutes to run on my  Multiple_year_stock_data.xlsm file. And less than one minute to run on my alphabetical_test.xlsm file.
 
-## Files
-
-* [Stock Data Solved](excel_files/Multiple_year_stock_data.xlsm) 
-
-* [Alphabet Data Solved](excel_files/alphabetical_test.xlsm) 
-
 ## VBA Scripts
 
 * [My VBA Script](VBA_scripts/HWSolution.bas) - This is my code for solving the homework and bonus part.
 * [Reset Script](VBA_scripts/Resetscript.bas) - This code was for reseting the excel sheets and erasing the solutions in case it was needed.  
+
+## Extra Files
+
+* [Stock Data Solved](excel_files/Multiple_year_stock_data.xlsm) - File was too big for upload.
+
+* [Alphabet Data Solved](excel_files/alphabetical_test.xlsm) 
+
 ## Screen Shots 
 
 *  3 screen shots for each year of my results on the Multi Year Stock Data.
