@@ -10,11 +10,6 @@ I am submitting two VBA scripts, three screen shots of the solutions from the mu
 * [My VBA Script](VBA_scripts/HWSolution.bas) - This is my code for solving the homework and bonus part.
 * [Reset Script](VBA_scripts/Resetscript.bas) - This code was for reseting the excel sheets and erasing the solutions in case it was needed.  
 
-## Extra Files
-
-* [Alphabet Data Solved](excel_files/alphabetical_test.xlsm) 
-* [Stock Data Solved] - Unable to upload. File exceeds maximum repository size.
-
 ## Screen Shots 
 
 *  3 screen shots. One for each year, with my results on the Multi Year Stock Data.
@@ -22,5 +17,10 @@ I am submitting two VBA scripts, three screen shots of the solutions from the mu
 ![moderate_solution](screenshots/screenshot_2016.png)
 ![moderate_solution](screenshots/screenshot_2015.png)
 ![moderate_solution](screenshots/screenshot_2014.png)
+
+## Extra Files
+
+* [Alphabet Data Solved](excel_files/alphabetical_test.xlsm) 
+* [Stock Data Solved] - Unable to upload. File exceeds maximum repository size.
 
 - - -
