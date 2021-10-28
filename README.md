@@ -25,9 +25,12 @@ I am submitting two VBA scripts, three screen shots of the solutions from the mu
 
 - - - 
 ## Analysis
-Three conclusions about Kickstarter campaigns.
+Three conclusions about Kickstarter campaigns:
+
 * The theater category has been the one with the most amount of successful campaigns out of all the categories. For the subcategories, the subcategory that has been the most successful is the play subcategory.
 * By looking at the graph from this sheet, we can conclude that the best month to start a project would be the month of May since there is a trend that this month tends to have the most amount of successful projects. Also, the month that is least likely to have successful projects is December. 
 * The top two most successful categories in the U.S have been the theater and music categories. They also have been the ones with the most projects launched. 
-Limitations of the dataset
+
+Limitations of the dataset:
+
 The dataset has a limited sample size which is probably not the whole population of kickstarted. Also, the dataset doesn't show the creator, producer, and director of each project. There is a chance that if the director or producer is well known, the chance of success might vary.  Another limitation is that the data set doesn't show the type of rewards the project is offering; there might be a correlation between the number of backers a project has and the variety of rewards they'd offered. 
